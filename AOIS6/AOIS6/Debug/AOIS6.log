@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\anton\source\repos\AOIS6\AOIS6\main.cpp(204,21): warning C4305: return: усечение из "__int64" в "int"
+C:\Users\anton\source\repos\AOIS6\AOIS6\main.cpp(204,11): warning C4309: return: усечение константного значения
+C:\Users\anton\source\repos\AOIS6\AOIS6\main.cpp(219,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\AOIS6\AOIS6\main.cpp(277,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\AOIS6\AOIS6\main.cpp(307,20): warning C4018: <: несоответствие типов со знаком и без знака
+  AOIS6.vcxproj -> C:\Users\anton\source\repos\AOIS6\Debug\AOIS6.exe
